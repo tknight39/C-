@@ -1,0 +1,101 @@
+
+
+
+#mainWindow {
+    background-color: white;
+}
+
+#grid {
+    background-color: transparent;
+}
+
+
+/* Labels */
+#lcd {
+    background-color: lightgreen;
+    border: 2px solid black;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#Lbl_Text {
+    background-color: transparent;
+    font-size: 20px;
+    color: black;
+}
+
+
+#Lbl_Instruction {
+    background-color: transparent;
+    font-size: 30px;
+    border: 2px solid black;
+    color: red;
+}
+
+#header{
+    background-color: purple;
+    color: white;
+    font-size: 50px;
+    border: 5px solid black;
+}
+/*******************************/
+
+
+/* Buttons */
+
+button {
+    
+    background-color: white;
+    font-size: 20px;
+}
+
+#numBtn, #enterBtn, #adminBtn, 
+#armBtn, #loginBtn, #clrBtn {
+    color: blue;
+    border: 1px solid blue;
+}
+
+#numBtn:hover {
+    background-color: blue;
+    color: white;
+}
+
+#enterBtn:hover {
+    background-color: green;
+    color: black;
+}
+
+#clrBtn:hover {
+    background-color: yellow;
+    color: black;
+}
+
+#loginBtn:hover {
+    background-color: green;
+    color: black;
+}
+
+#armBtn:hover {
+    background-color: red;
+    color: black;
+}
+
+
+#toggleBtn {
+    background-color: red;
+    border: 1px solid black;
+    color: white;
+    font-size: 20px;
+}
+
+#toggleBtn:hover {
+    background-color: white;
+    border: 1px solid blue;
+    color: blue;
+}
+
+
+
+
+
+/*******************************/
